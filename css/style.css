@@ -1,0 +1,36 @@
+
+.default-text{
+    color: #2BBBAD;
+}
+
+#lastname{
+    color: #ff4444;
+    font-weight: 500;
+    
+}
+
+h5 {
+    letter-spacing: 3px;
+}
+
+
+
+
+
+@media (max-width: 768px) {
+    .navbar:not(.top-nav-collapse) {
+        background: #82b1ff !important;
+    } 
+}
+
+
+
+@media (max-width: 740px) {
+    .full-height,
+    .full-height body,
+    .full-height header,
+    .full-height header .view {
+        height: 700px; 
+    } 
+}
+        
