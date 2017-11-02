@@ -1,36 +1,32 @@
 
-.default-text{
+.custom-wrapper {
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    height: 100%;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.default-text {
     color: #2BBBAD;
 }
 
-#lastname{
+#lastname {
     color: #ff4444;
     font-weight: 500;
-    
 }
 
 h5 {
     letter-spacing: 3px;
 }
 
-
-
-
-
-@media (max-width: 768px) {
-    .navbar:not(.top-nav-collapse) {
-        background: #82b1ff !important;
-    } 
-}
-
-
+@media (max-width: 768px) {}
 
 @media (max-width: 740px) {
     .full-height,
     .full-height body,
     .full-height header,
     .full-height header .view {
-        height: 700px; 
-    } 
+        height: 700px;
+    }
 }
-        

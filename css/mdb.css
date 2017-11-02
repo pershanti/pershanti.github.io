@@ -5273,9 +5273,16 @@ a:not([href]):not([tabindex]), a:not([href]):not([tabindex]):focus, a:not([href]
   color: #00C851;
 }
 
+
 body {
   font-family: 'Avenir', sans-serif;
   font-weight: 300;
+  background-image: url('../img/code.png');
+  background-repeat: repeat-y;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  color: white;
+
 }
 
 h1,
