@@ -1,40 +1,25 @@
 
-html{
-    width: 100%;
-    height: 100%;
-}
 .custom-wrapper {
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0);
     width: 100%;
     height: 100%;
     background-attachment: fixed;
     background-size: 100% 100%;
-}
-
-
-.navbar{
-    margin-bottom: 80%;
 }
 body {
-    background-image: url('../img/code.png');
-    background-repeat: repeat-y;
+    background-color:#F74A58;
     background-attachment: fixed;
     background-size: 100% 100%;
-    width: 100%;
-    height: 100%;
 }  
+
 .default-text {
     color: #2BBBAD;
 }
 
-#lastname {
-    color: #ff4444;
-    font-weight: 500;
+section{
+    margin: 4% 5%;
 }
 
-h5 {
-    letter-spacing: 3px;
-}
 
 @media (max-width: 768px) {}
 
