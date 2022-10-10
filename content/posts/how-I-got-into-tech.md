@@ -42,7 +42,7 @@ first iOS engineer job at Owl Cameras
 **2019**  
 joined Apple as iOS engineer in Retail Apps  
 
-**2020**  
+**2020-21**  
 relocated to NYC, switched to macOS team in Apple Media Products
 
 **2021-22**  
