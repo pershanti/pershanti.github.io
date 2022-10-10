@@ -11,7 +11,7 @@ hideComments = true
 
 ## tl;dr
 
-I studied Public Health at Johns Hopkins, where I did research in virology and graduated in 2012. After graduating I continued working in virology in government, academia, and industry. I quit in 2016 to study programming full-time through self-teaching, online courses, and a bootcamp. I got my first job in tech in 2018. 
+I studied Public Health at Johns Hopkins, where I did research in virology and graduated in 2012. After graduating I continued working in virology in government, academia, and industry. In 2016, I wrote some code to analyze data I'd been working with. Learning the code, solving pesky bugs, and finally seeing the end result gave me the greatest sense of accomplishment I'd ever had. I knew I had to keep doing it. I quit in 2016 to study programming full-time through self-teaching, online courses, and a bootcamp. I got my first job in tech in 2018.   
 
 ## timeline version
 
