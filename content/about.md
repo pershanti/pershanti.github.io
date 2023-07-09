@@ -1,6 +1,6 @@
 ---
 title: "About Shantini"
-date: 2022-10-09T22:17:15-04:00
+date: 2023-06-08
 ---
 
 I'm a software engineer with > 5 years of experience in Apple platform development. 
