@@ -1,6 +1,6 @@
 +++
 title = "The meaning of UX in a time of AI"
-date = "2025-03-18"
+date = "2025-03-18T22:18:57-04:00"
 author = "Shantini Vyas"
 cover = ""
 description = "They should have sent a poet."
