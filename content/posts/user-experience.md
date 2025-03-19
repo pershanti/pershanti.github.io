@@ -1,9 +1,9 @@
 +++
 title = "The meaning of UX in a time of AI"
-date = "2025-03-18T22:18:00-04:00"
+date = "2025-03-18"
 author = "Shantini Vyas"
 cover = ""
-description = "In various formats"
+description = "They should have sent a poet."
 showFullContent = false
 readingTime = false
 hideComments = true
