@@ -1,4 +1,13 @@
-# The meaning of UX in a time of AI
++++
+title = "The meaning of UX in a time of AI"
+date = "2025-03-18T22:18:00-04:00"
+author = "Shantini Vyas"
+cover = ""
+description = "In various formats"
+showFullContent = false
+readingTime = false
+hideComments = true
++++
 
 Something to know about me is that I have always been obsessed with software user interfaces. I loved, for example, the not-so-subtle shadow on buttons in Windows 95-00 era operating systems. I found the stoplight buttons in Mac OS to be imaginative and evocative. Putting a little music player in my favorite color right on my desktop was the pinnacle of what I wanted out of personal computing.
 
