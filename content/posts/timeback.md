@@ -17,30 +17,36 @@ hideComments = true
 
 **Can you hear me.**
 
+while you nod, I inhale and prepare
 
+to be disrespected because i’m a hot mess
 
-while you nod I…
+for you to look away because I’m too hot 
 
-…prepare to be disrespected because i’m not attractive enough
+for your insecurity-fed rage because I’m too confident 
 
-…prepare for you to avoid eye contact because I’m too hot 
+to be bulldozed because I’m too deferential
 
-…prepare to be rejected because I’m too confident 
+for the awkward silence when I’m too emotional
 
-…prepare to be forgotten because I’m too deferential
+to be counted out because I’m too feminine
 
-…prepare for the silence when I’m too emotional
+for chad to present my idea as his own 
 
-…prepare to be counted out because I’m too feminine
+for your confused glances at my legs crossed like a man's 
 
-…prepare for chad to present my idea as his own 
+for my ambition to cause fear
 
-…prepare to cause confusion because I cross my legs like a man
+to have my boundaries trampled
 
-…prepare to do the work that nobody else will 
+for my name to be botched
 
-…prepare for my name to be botched, my intellect to be underestimated, my patience to be tried, my knowledge to be discredited.
+for my intellect to be underestimated
+
+for my dreams to be too big
+
+for me to be *too much*
 
 3-7 times a day, 5 minutes after the hour. 
 
-*You’re on mute.*
+**You’re on mute.**
